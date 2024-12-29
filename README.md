@@ -1,7 +1,7 @@
-# BeamDB
+# ☄️ BeamDB
 
 <div align="center">
-  <img src="assets/logo.svg" width="200" alt="BeamDB Logo">
+ 
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Rust](https://img.shields.io/badge/rust-2024-orange.svg)](https://www.rust-lang.org)
